@@ -8,7 +8,7 @@ graph [layout = dot]
 
 node [shape = box, style = filled, fillcolor = Ivory, label = '']
 
-MPS [label = 'Ministry of Public Security', shape = oval, fillcolor = LightGoldenrodYellow]
+MPS [label = 'Ministry of Public Security', shape = box, fillcolor = LightGoldenrodYellow]
 
 PSD [label = 'Provincial Public Security Departments (22)', fillcolor = LightYellow]
 ARPSB [label = 'Autonoumous Region \n Public Security Departments (5)', fillcolor = LightYellow]
