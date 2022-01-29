@@ -6,7 +6,7 @@ digraph {
 
 graph [layout = dot]
 
-node [shape = box, style = filled, fillcolor = Ivory, label = '']
+node [shape = box, style = filled, fillcolor = Ivory, label = '', fontname = Helvetica]
 
 MPS [label = 'Ministry of Public Security', shape = box, fillcolor = LightGoldenrodYellow, width = 6]
 
