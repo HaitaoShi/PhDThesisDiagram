@@ -4,7 +4,7 @@ library(DiagrammeR)
 grViz("
 digraph {
 
-graph [layout = neato, overlap = false]
+graph [layout = neato, overlap = false, label = 'Research Sites', labelloc = t, fontsize = 40]
 
 node [shape = circle, style = filled, fillcolor = Ivory, label = '', fixedsize = true, fontname = Helvetica]
   
@@ -28,3 +28,4 @@ OPS -> {FCS CPS2}
 }
 ")
 
+ 

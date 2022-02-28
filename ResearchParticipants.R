@@ -1,5 +1,6 @@
 install.packages('tidyverse')
 library(tidyverse)
+library(ggrepel)
 options(ggrepel.max.overlaps = Inf)
 
 data <- read.csv(file.choose())
